@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\bin\Debug\netcoreapp2.1\21. Nota.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\bin\Debug\netcoreapp2.1\21. Nota.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\bin\Debug\netcoreapp2.1\21. Nota.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\bin\Debug\netcoreapp2.1\21. Nota.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\bin\Debug\netcoreapp2.1\21. Nota.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\obj\Debug\netcoreapp2.1\21. Nota.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\obj\Debug\netcoreapp2.1\21. Nota.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\obj\Debug\netcoreapp2.1\21. Nota.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\obj\Debug\netcoreapp2.1\21. Nota.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\obj\Debug\netcoreapp2.1\21. Nota.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\21. Nota\21. Nota\obj\Debug\netcoreapp2.1\21. Nota.pdb

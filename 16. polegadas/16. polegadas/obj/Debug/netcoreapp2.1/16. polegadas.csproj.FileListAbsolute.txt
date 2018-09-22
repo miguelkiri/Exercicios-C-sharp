@@ -1,0 +1,10 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\bin\Debug\netcoreapp2.1\16. polegadas.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\bin\Debug\netcoreapp2.1\16. polegadas.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\bin\Debug\netcoreapp2.1\16. polegadas.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\bin\Debug\netcoreapp2.1\16. polegadas.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\bin\Debug\netcoreapp2.1\16. polegadas.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\obj\Debug\netcoreapp2.1\16. polegadas.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\obj\Debug\netcoreapp2.1\16. polegadas.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\obj\Debug\netcoreapp2.1\16. polegadas.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\obj\Debug\netcoreapp2.1\16. polegadas.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\16. polegadas\16. polegadas\obj\Debug\netcoreapp2.1\16. polegadas.pdb

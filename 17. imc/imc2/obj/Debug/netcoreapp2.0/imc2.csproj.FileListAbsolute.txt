@@ -1,0 +1,22 @@
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.deps.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.runtimeconfig.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.runtimeconfig.dev.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.csprojAssemblyReference.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.csproj.CoreCompileInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.AssemblyInfoInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.AssemblyInfo.cs
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\bin\Debug\netcoreapp2.0\imc2.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\imc2\imc2\obj\Debug\netcoreapp2.0\imc2.pdb

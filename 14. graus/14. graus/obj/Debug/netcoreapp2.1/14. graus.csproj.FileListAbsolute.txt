@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\bin\Debug\netcoreapp2.1\14. graus.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\bin\Debug\netcoreapp2.1\14. graus.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\bin\Debug\netcoreapp2.1\14. graus.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\bin\Debug\netcoreapp2.1\14. graus.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\bin\Debug\netcoreapp2.1\14. graus.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\obj\Debug\netcoreapp2.1\14. graus.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\obj\Debug\netcoreapp2.1\14. graus.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\obj\Debug\netcoreapp2.1\14. graus.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\obj\Debug\netcoreapp2.1\14. graus.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\obj\Debug\netcoreapp2.1\14. graus.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\14. graus\14. graus\obj\Debug\netcoreapp2.1\14. graus.pdb

@@ -1,0 +1,10 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\bin\Debug\netcoreapp2.1\15. radiando.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\bin\Debug\netcoreapp2.1\15. radiando.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\bin\Debug\netcoreapp2.1\15. radiando.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\bin\Debug\netcoreapp2.1\15. radiando.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\bin\Debug\netcoreapp2.1\15. radiando.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\obj\Debug\netcoreapp2.1\15. radiando.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\obj\Debug\netcoreapp2.1\15. radiando.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\obj\Debug\netcoreapp2.1\15. radiando.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\obj\Debug\netcoreapp2.1\15. radiando.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\15. radiando\15. radiando\obj\Debug\netcoreapp2.1\15. radiando.pdb

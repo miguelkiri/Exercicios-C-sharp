@@ -1,0 +1,11 @@
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\bin\Debug\netcoreapp2.0\valoraoquadrado.deps.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\bin\Debug\netcoreapp2.0\valoraoquadrado.runtimeconfig.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\bin\Debug\netcoreapp2.0\valoraoquadrado.runtimeconfig.dev.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\bin\Debug\netcoreapp2.0\valoraoquadrado.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\bin\Debug\netcoreapp2.0\valoraoquadrado.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\obj\Debug\netcoreapp2.0\valoraoquadrado.csprojAssemblyReference.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\obj\Debug\netcoreapp2.0\valoraoquadrado.csproj.CoreCompileInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\obj\Debug\netcoreapp2.0\valoraoquadrado.AssemblyInfoInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\obj\Debug\netcoreapp2.0\valoraoquadrado.AssemblyInfo.cs
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\obj\Debug\netcoreapp2.0\valoraoquadrado.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\valoraoquadrado\valoraoquadrado\obj\Debug\netcoreapp2.0\valoraoquadrado.pdb

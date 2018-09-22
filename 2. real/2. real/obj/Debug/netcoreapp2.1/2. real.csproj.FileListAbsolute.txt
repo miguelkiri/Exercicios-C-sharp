@@ -1,0 +1,10 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\bin\Debug\netcoreapp2.1\2. real.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\bin\Debug\netcoreapp2.1\2. real.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\bin\Debug\netcoreapp2.1\2. real.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\bin\Debug\netcoreapp2.1\2. real.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\bin\Debug\netcoreapp2.1\2. real.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\obj\Debug\netcoreapp2.1\2. real.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\obj\Debug\netcoreapp2.1\2. real.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\obj\Debug\netcoreapp2.1\2. real.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\obj\Debug\netcoreapp2.1\2. real.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\2. real\2. real\obj\Debug\netcoreapp2.1\2. real.pdb

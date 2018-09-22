@@ -1,0 +1,11 @@
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\obj\Debug\netcoreapp2.0\Kelvin para Celsius.csprojAssemblyReference.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\obj\Debug\netcoreapp2.0\Kelvin para Celsius.csproj.CoreCompileInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\obj\Debug\netcoreapp2.0\Kelvin para Celsius.AssemblyInfoInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\obj\Debug\netcoreapp2.0\Kelvin para Celsius.AssemblyInfo.cs
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\bin\Debug\netcoreapp2.0\Kelvin para Celsius.deps.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\bin\Debug\netcoreapp2.0\Kelvin para Celsius.runtimeconfig.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\bin\Debug\netcoreapp2.0\Kelvin para Celsius.runtimeconfig.dev.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\bin\Debug\netcoreapp2.0\Kelvin para Celsius.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\bin\Debug\netcoreapp2.0\Kelvin para Celsius.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\obj\Debug\netcoreapp2.0\Kelvin para Celsius.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Kelvin para Celsius\Kelvin para Celsius\obj\Debug\netcoreapp2.0\Kelvin para Celsius.pdb

@@ -1,0 +1,10 @@
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\bin\Debug\netcoreapp2.0\Fahrenheit para Celsius.deps.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\bin\Debug\netcoreapp2.0\Fahrenheit para Celsius.runtimeconfig.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\bin\Debug\netcoreapp2.0\Fahrenheit para Celsius.runtimeconfig.dev.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\bin\Debug\netcoreapp2.0\Fahrenheit para Celsius.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\bin\Debug\netcoreapp2.0\Fahrenheit para Celsius.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\obj\Debug\netcoreapp2.0\Fahrenheit para Celsius.csproj.CoreCompileInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\obj\Debug\netcoreapp2.0\Fahrenheit para Celsius.AssemblyInfoInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\obj\Debug\netcoreapp2.0\Fahrenheit para Celsius.AssemblyInfo.cs
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\obj\Debug\netcoreapp2.0\Fahrenheit para Celsius.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Fahrenheit para Celsius\Fahrenheit para Celsius\obj\Debug\netcoreapp2.0\Fahrenheit para Celsius.pdb

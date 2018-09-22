@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\obj\Debug\netcoreapp2.1\25. Conte.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\obj\Debug\netcoreapp2.1\25. Conte.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\obj\Debug\netcoreapp2.1\25. Conte.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\obj\Debug\netcoreapp2.1\25. Conte.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\bin\Debug\netcoreapp2.1\25. Conte.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\bin\Debug\netcoreapp2.1\25. Conte.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\bin\Debug\netcoreapp2.1\25. Conte.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\bin\Debug\netcoreapp2.1\25. Conte.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\bin\Debug\netcoreapp2.1\25. Conte.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\obj\Debug\netcoreapp2.1\25. Conte.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\25. Conte\25. Conte\obj\Debug\netcoreapp2.1\25. Conte.pdb

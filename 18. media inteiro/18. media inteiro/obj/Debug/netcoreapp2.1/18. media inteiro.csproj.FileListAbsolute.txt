@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\bin\Debug\netcoreapp2.1\18. media inteiro.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\bin\Debug\netcoreapp2.1\18. media inteiro.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\bin\Debug\netcoreapp2.1\18. media inteiro.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\bin\Debug\netcoreapp2.1\18. media inteiro.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\bin\Debug\netcoreapp2.1\18. media inteiro.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\obj\Debug\netcoreapp2.1\18. media inteiro.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\obj\Debug\netcoreapp2.1\18. media inteiro.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\obj\Debug\netcoreapp2.1\18. media inteiro.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\obj\Debug\netcoreapp2.1\18. media inteiro.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\obj\Debug\netcoreapp2.1\18. media inteiro.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\18. media inteiro\18. media inteiro\obj\Debug\netcoreapp2.1\18. media inteiro.pdb

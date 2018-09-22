@@ -1,0 +1,13 @@
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\bin\Debug\netcoreapp2.0\Celsius para Kelvin.deps.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\bin\Debug\netcoreapp2.0\Celsius para Kelvin.runtimeconfig.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\bin\Debug\netcoreapp2.0\Celsius para Kelvin.runtimeconfig.dev.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\bin\Debug\netcoreapp2.0\Celsius para Kelvin.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\bin\Debug\netcoreapp2.0\Celsius para Kelvin.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.csproj.CoreCompileInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.AssemblyInfoInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.AssemblyInfo.cs
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.csprojAssemblyReference.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\Celsius para Kelvin\Celsius para Kelvin\obj\Debug\netcoreapp2.0\Celsius para Kelvin.pdb

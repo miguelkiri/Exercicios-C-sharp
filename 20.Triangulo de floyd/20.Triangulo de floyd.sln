@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Triangulo de floyd", "20.Triangulo de floyd\20.Triangulo de floyd.csproj", "{2F22110D-3047-4024-BAD0-87D74197057F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F22110D-3047-4024-BAD0-87D74197057F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F22110D-3047-4024-BAD0-87D74197057F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F22110D-3047-4024-BAD0-87D74197057F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F22110D-3047-4024-BAD0-87D74197057F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A16751-E594-4360-A911-E90BAB9D52B8}
+	EndGlobalSection
+EndGlobal

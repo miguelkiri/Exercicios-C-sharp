@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\bin\Debug\netcoreapp2.1\5. quintaparte.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\bin\Debug\netcoreapp2.1\5. quintaparte.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\bin\Debug\netcoreapp2.1\5. quintaparte.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\bin\Debug\netcoreapp2.1\5. quintaparte.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\bin\Debug\netcoreapp2.1\5. quintaparte.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\obj\Debug\netcoreapp2.1\5. quintaparte.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\obj\Debug\netcoreapp2.1\5. quintaparte.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\obj\Debug\netcoreapp2.1\5. quintaparte.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\obj\Debug\netcoreapp2.1\5. quintaparte.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\obj\Debug\netcoreapp2.1\5. quintaparte.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\5. quintaparte\5. quintaparte\obj\Debug\netcoreapp2.1\5. quintaparte.pdb

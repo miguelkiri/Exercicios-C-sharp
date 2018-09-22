@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\bin\Debug\netcoreapp2.1\20.Triangulo de floyd.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\bin\Debug\netcoreapp2.1\20.Triangulo de floyd.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\bin\Debug\netcoreapp2.1\20.Triangulo de floyd.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\bin\Debug\netcoreapp2.1\20.Triangulo de floyd.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\bin\Debug\netcoreapp2.1\20.Triangulo de floyd.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\obj\Debug\netcoreapp2.1\20.Triangulo de floyd.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\obj\Debug\netcoreapp2.1\20.Triangulo de floyd.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\obj\Debug\netcoreapp2.1\20.Triangulo de floyd.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\obj\Debug\netcoreapp2.1\20.Triangulo de floyd.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\obj\Debug\netcoreapp2.1\20.Triangulo de floyd.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\20.Triangulo de floyd\20.Triangulo de floyd\obj\Debug\netcoreapp2.1\20.Triangulo de floyd.pdb

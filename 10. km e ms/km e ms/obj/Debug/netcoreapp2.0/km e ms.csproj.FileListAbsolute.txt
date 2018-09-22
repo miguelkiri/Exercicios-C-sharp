@@ -1,0 +1,11 @@
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\obj\Debug\netcoreapp2.0\km e ms.csprojAssemblyReference.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\obj\Debug\netcoreapp2.0\km e ms.csproj.CoreCompileInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\obj\Debug\netcoreapp2.0\km e ms.AssemblyInfoInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\obj\Debug\netcoreapp2.0\km e ms.AssemblyInfo.cs
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\bin\Debug\netcoreapp2.0\km e ms.deps.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\bin\Debug\netcoreapp2.0\km e ms.runtimeconfig.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\bin\Debug\netcoreapp2.0\km e ms.runtimeconfig.dev.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\bin\Debug\netcoreapp2.0\km e ms.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\bin\Debug\netcoreapp2.0\km e ms.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\obj\Debug\netcoreapp2.0\km e ms.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Aula\Exercicios\km e ms\km e ms\obj\Debug\netcoreapp2.0\km e ms.pdb

@@ -1,0 +1,10 @@
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\bin\Debug\netcoreapp2.0\tresvalores.deps.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\bin\Debug\netcoreapp2.0\tresvalores.runtimeconfig.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\bin\Debug\netcoreapp2.0\tresvalores.runtimeconfig.dev.json
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\bin\Debug\netcoreapp2.0\tresvalores.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\bin\Debug\netcoreapp2.0\tresvalores.pdb
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\obj\Debug\netcoreapp2.0\tresvalores.csproj.CoreCompileInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\obj\Debug\netcoreapp2.0\tresvalores.AssemblyInfoInputs.cache
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\obj\Debug\netcoreapp2.0\tresvalores.AssemblyInfo.cs
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\obj\Debug\netcoreapp2.0\tresvalores.dll
+C:\Users\mijta\Documents\FACULDADE\Fabricio\Exercicios\tresvalores\tresvalores\obj\Debug\netcoreapp2.0\tresvalores.pdb

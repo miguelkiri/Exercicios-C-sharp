@@ -1,0 +1,11 @@
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\obj\Debug\netcoreapp2.1\12. milhas.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\obj\Debug\netcoreapp2.1\12. milhas.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\obj\Debug\netcoreapp2.1\12. milhas.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\obj\Debug\netcoreapp2.1\12. milhas.AssemblyInfo.cs
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\bin\Debug\netcoreapp2.1\12. milhas.deps.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\bin\Debug\netcoreapp2.1\12. milhas.runtimeconfig.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\bin\Debug\netcoreapp2.1\12. milhas.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\bin\Debug\netcoreapp2.1\12. milhas.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\bin\Debug\netcoreapp2.1\12. milhas.pdb
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\obj\Debug\netcoreapp2.1\12. milhas.dll
+C:\Users\Miguel\Documents\FACULDADE\2º Semestre\Fabricio C#\Aula\Exercicios\12. milhas\12. milhas\obj\Debug\netcoreapp2.1\12. milhas.pdb
